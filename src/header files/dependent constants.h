@@ -1,4 +1,5 @@
-#include "independent constants.h"
+#include <independent constants.h>
+#include <math.h>
 
 // The angle (clockwise) in radians that the left joystick must be held at to drive the robot straight.
 // Radians are used because cos(double) and sin(double) take radians instead of degrees.

@@ -15,7 +15,7 @@
 using namespace vex;
 
 // Call initialize() at the beginning of your program.
-// If nothing must be done before running the robot, leave function body blank.
+// If nothing must be done before running the robot, leave this function body blank.
 void initialize() {
     setLeftDtVel(0);
     setRightDtVel(0);
