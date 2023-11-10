@@ -14,6 +14,11 @@
 
 using namespace vex;
 
+// Get Alvin's dad.
+void getAlvinsDad() {
+    return;
+}
+
 // Call initialize() at the beginning of your program.
 // If nothing must be done before running the robot, leave this function body blank.
 void initialize() {
