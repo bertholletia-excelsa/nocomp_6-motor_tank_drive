@@ -12,10 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "v5.h"
-#include "v5_vcs.h"
+#include <v5.h>
+#include <v5_vcs.h>
 
-#include "robot-config.h"
-
-// INCLUDE ALL USER-MADE HEADER FILES
-#include "header files/independent-constants.h"
+#include <robot-config.h>
