@@ -1,7 +1,7 @@
 #include <vex.h>
 #include <independent constants.h>
 #include <dependent constants.h>
-#include <global variables.h>
+#include <static variables.h>
 
 // Returns a modification of num squared:
 // If num is negative, then the return value will be negative.

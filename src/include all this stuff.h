@@ -2,6 +2,6 @@
 
 #include <independent constants.h>
 #include <dependent constants.h>
-#include <global variables.h>
+#include <static variables.h>
 #include <misc functions.h>
 #include <driver control.h>
