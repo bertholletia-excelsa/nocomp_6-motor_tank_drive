@@ -1,6 +1,6 @@
 #include <vex.h>
 #include <dependent constants.h>
-#include <helper functions.h>
+#include <misc functions.h>
 
 // This struct contains every function that is necessarily driver-control specific.
 // It does not need to exist, but I have it for organization.
