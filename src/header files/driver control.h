@@ -1,5 +1,5 @@
 #include <vex.h>
-#include <dependent constants.h>
+#include <immutable constants.h>
 #include <misc functions.h>
 
 // This struct contains every function that is necessarily driver-control specific.
