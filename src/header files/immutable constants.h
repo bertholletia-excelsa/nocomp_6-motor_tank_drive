@@ -18,11 +18,6 @@ const double SIN_STICK_OFFSET = sin(STICK_OFFSET_RAD);
 
 // The number of motors per side of the drivetrain.
 // e.g. 6-motor drive: 3 motors per side.
-<<<<<<< HEAD:src/header files/dependent constants.h
 // Change this value in the event of a robot redesign that alters the number of drivetrain motors.
-// <dependent constants.h>
-=======
-// Change this value in the advent of a robot redesign that alters the number of drivetrain motors.
 // <immutable constants.h>
->>>>>>> 1adeb0dc34abd29cf7b9119d7d0ee8e7af1a3158:src/header files/immutable constants.h
 const int MOTORS_PER_DT_SIDE = 3;
