@@ -3,11 +3,11 @@
 
 // An array of all motors that are connected the left drivetrain wheels.
 // <static variables.h>
-motor leftDtMotors[MOTORS_PER_DT_SIDE] = {LeftDtMotor1, LeftDtMotor2, LeftDtMotor3};
+motor leftDtMotors[MOTORS_PER_DT_SIDE] = {LeftDtMotor1, LeftDtMotor2};
 
 // An array of all motors that are connected to the right drivetrain wheels.
 // <static variables.h>
-motor rightDtMotors[MOTORS_PER_DT_SIDE] = {RightDtMotor1, RightDtMotor2, RightDtMotor3};
+motor rightDtMotors[MOTORS_PER_DT_SIDE] = {RightDtMotor1, RightDtMotor2};
 
 // true if the robot's forward direction is toward its pushing side,
 // false otherwise.

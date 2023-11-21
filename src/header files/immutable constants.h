@@ -20,4 +20,4 @@ const double SIN_STICK_OFFSET = sin(STICK_OFFSET_RAD);
 // e.g. 6-motor drive: 3 motors per side.
 // Change this value in the event of a robot redesign that alters the number of drivetrain motors.
 // <immutable constants.h>
-const int MOTORS_PER_DT_SIDE = 3;
+const int MOTORS_PER_DT_SIDE = 2;
