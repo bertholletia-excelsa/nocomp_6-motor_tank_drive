@@ -1,4 +1,10 @@
-#include <include all this stuff.h>
+#include <vex.h>
+
+#include <mutable constants.h>
+#include <immutable constants.h>
+#include <static variables.h>
+#include <misc functions.h>
+#include <driver control.h>
 
 // ---- START VEXCODE CONFIGURED DEVICES ----
 // Robot Configuration:
